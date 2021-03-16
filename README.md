@@ -1,0 +1,2 @@
+# Project-Qsharp_Host_aps
+This project was created for the development of a scientific paper for my college I am inserting the article that was developed by me and my group mates And along with my article the code that was developed by me in Qsharp I decided to develop the practical part of the work because I saw the challenge of learning something completely new and different It was difficult trying to understand how Qsharp works but in the end we managed to deliver a cool practical project .
